@@ -1,2 +1,13 @@
 # Cretus-esp32-car
-A Bluetooth-controlled robotic car built using an ESP32 microcontroller. The project demonstrates wireless communication between a smartphone and ESP32 via Bluetooth, enabling real-time control of car movements. Includes motor driver interfacing, hardware schematics, and ESP32 firmware for seamless operation.
+Welcome to the official guide for the ESP32 Bluetooth Controlled Car.
+This project demonstrates wireless communication between a smartphone and an ESP32 microcontroller via Bluetooth, enabling real-time control of a robotic car’s movements. The car is powered by DC motors driven through a motor driver and is designed as a fun, hands-on embedded systems and robotics project.
+
+# Table of Contents
+ Project Overview
+Hardware Requirements
+Software Requirements
+Circuit Connections
+Step-by-Step Setup Guide
+Control Commands
+Demo
+Troubleshooting
