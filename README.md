@@ -107,7 +107,7 @@ To make controlling the car easy, this project includes a **custom Android appli
      
 3. **Install the Android App**  
    - Follow the [Mobile App](#mobile-app) section above.
-   - 
+     
 2. **Pair Smartphone with ESP32**  
    - On your phone, search for Bluetooth devices.  
    - Pair with `ESP32_BT`.  
@@ -130,7 +130,8 @@ To make controlling the car easy, this project includes a **custom Android appli
 
 ## Demo  
 
-*(Add images, GIFs, or videos of the car in action here)*  
+![Complete_Project](Images/demo1.jpg)
+![Using_the_car](Images/demo2.jpg)
 
 ---
 
